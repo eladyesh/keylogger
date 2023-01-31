@@ -5,4 +5,4 @@
 3) Screenshots of computer screen
 4) Clipboard information
 5) Basic computer information
-6) Sending to email through smpt of all files with information & encrypted with Fernet
+6) Sending to email through smpt of all files with information & encrypted with Fernet </p>
